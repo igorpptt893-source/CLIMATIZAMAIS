@@ -1,0 +1,12 @@
+{
+  "name": "climatizamais-gestao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional e painel demonstrativo de gestão da Climatizamais",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
